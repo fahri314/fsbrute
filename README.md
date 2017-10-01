@@ -19,9 +19,9 @@ fsbrute is ftp and ssh login bruter multithread program.
 
     Usage: ./fsbrute.py [options]
     Options: -t, --target       <hostname/ip>    |   target to bruteforcing 
-         -c, --combolist    <combolist>      |   combolist for bruteforcing
-         -h, --help         <help>           |   print this help
-         -b, --bot          <bot>            |   bot count
+             -c, --combolist    <combolist>      |   combolist for bruteforcing
+             -h, --help         <help>           |   print this help
+             -b, --bot          <bot>            |   bot count
                                                   
     Example   : ./fsbrute.py -t 192.168.1.1 -c combolist.txt -b 10 ftp
 
